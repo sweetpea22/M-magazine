@@ -1,4 +1,3 @@
-# Django CRUD Blog 
+# M Magazine's website
 
-Practicing Django to create a blog that handles data flow from multiple contributors. Front-end design is a template developed by Bootstrapious.
-
+The online version of an arts and letters publication. Using Django to handle data flows from multiple contributors. A concern for this project was its scalability and web performance. I am open to contributions! <3 
